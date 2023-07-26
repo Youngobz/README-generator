@@ -11,8 +11,6 @@ Before using this application, make sure you have Node.js installed on your mach
 ## Installation
 
 To install the necessary packages, run the following command in the terminal:
-
-<li>Copy code
 <li>npm install
 
 ## Usage
