@@ -2,6 +2,8 @@
 
 This is a Node.js application that generates a professional README.md file based on user input. The user is prompted with a series of questions, and the responses are used to populate the content of the README.md file.
 
+https://github.com/Youngobz/README-generator/assets/133522178/638b2c0e-0e86-4c9c-a51b-52a33eb04012
+
 ## Getting Started
 
 Before using this application, make sure you have Node.js installed on your machine.
