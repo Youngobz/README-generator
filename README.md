@@ -16,8 +16,6 @@ To install the necessary packages, run the following command in the terminal:
 ## Usage
 
 To use the application, run the following command in the terminal:
-
-<li>Copy code
 <li>node index.js
 
 ### The application will prompt you with a series of questions that you need to answer. These questions include:
